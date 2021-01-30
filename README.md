@@ -24,7 +24,7 @@ The proposed method includes the main code **main_ensdis.m**  and 11 functions w
 
 10.	**Noise_classification:** it cleans the dataset using three techniques: (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/noise_classification.m)
   -	removing (strong noise & weak noise), 
-  - relabeling (strong noise and weak noise), 
+  - relabeling (strong noise & weak noise), 
   - REM-REL (relabel strong noise & remove weak noise).
   
 11.	**SVM_ACC:** calculate the accuracy of cleaned datasets. (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/SVM_ACC.m)
