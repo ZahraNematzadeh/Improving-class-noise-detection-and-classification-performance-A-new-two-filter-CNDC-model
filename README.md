@@ -1,6 +1,7 @@
 # Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model
 
-Run the **main_ensdis.m** (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/main_ensdis.m) and change the noise level interval manually in **noise_injection.m**(https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/noise_injection.m).
+Run the **main_ensdis.m** (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/main_ensdis.m)
+and change the noise level interval manually in **noise_injection.m**(https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/noise_injection.m).
 
 The proposed method includes the main code **main_ensdis.m**  and 11 functions which are described below:
 
