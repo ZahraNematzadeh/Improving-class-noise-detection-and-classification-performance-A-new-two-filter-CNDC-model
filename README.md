@@ -28,4 +28,4 @@ The proposed method includes the main code **main_ensdis.m**  and 11 functions w
   - relabeling (strong noise & weak noise), 
   - REM-REL (relabel strong noise & remove weak noise).
   
-11.	**SVM_ACC:** calculate the accuracy of cleaned datasets. (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/SVM_ACC.m)
+11.	**SVM_ACC:** it calculates the accuracy of cleaned datasets. (https://github.com/ZahraNematzadeh/Improving-class-noise-detection-and-classification-performance-A-new-two-filter-CNDC-model/blob/main/SVM_ACC.m)
